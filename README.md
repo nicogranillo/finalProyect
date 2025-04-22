@@ -201,7 +201,7 @@ Jala License (se ve lindo jeje) © Equipo 2
 
 
 
-![ER Diagram](foto.png)
+![ER Diagram](foto.jpg)
 
 ---
 
