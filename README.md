@@ -201,8 +201,27 @@ Jala License (se ve lindo jeje) © Equipo 2
 
 
 
-![ER Diagram](foto.jpg)
+![ER Diagram](foto.png)
 
 ---
+
+## Ejecucion y ejemplos:
+
+(3.png)
+Aqui podemos ver la ejecucion del programa en donde ya usamos TareaApi y luego ejemcutamos el index.html
+despues de esto podemos ver la siguiente pestaña:
+(4.png)
+Aqui ingresaremos las credenciales que establecimos en el backend tras la correcta conexion con el back y la database pasamos a la interfaz habitual de index.html donde podremos hacer los cambios que querramos entorno a agregar datos de usuario,categoria y tablas como queramos, luego 
+(5.png)
+luego podemos ver como se crea un usuario y su eliminacion
+(6.png)
+(7.png)
+(8.png)
+Y ahora un ejemplo similar con categorias:
+(9.png)
+(1.2.png)
+y finalmente un ejemplo con tareas:
+(10.png)
+(11.png)
 
 
