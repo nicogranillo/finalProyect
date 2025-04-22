@@ -238,7 +238,4 @@ Aquí se muestra cómo se crea un usuario.
 
 ---
 
-> Asegúrate de que las imágenes estén ubicadas en el mismo nivel que el archivo README o ajusta la ruta según la carpeta correspondiente (por ejemplo: `img/3.png`).
-
-
 
