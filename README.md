@@ -206,22 +206,75 @@ Jala License (se ve lindo jeje) © Equipo 2
 ---
 
 ## Ejecucion y ejemplos:
+## 🚀 Ejecución y Ejemplos
 
+### 1. Ejecución del Programa
+
+```
 (3.png)
-Aqui podemos ver la ejecucion del programa en donde ya usamos TareaApi y luego ejemcutamos el index.html
-despues de esto podemos ver la siguiente pestaña:
+```
+Después de compilar y ejecutar `TareaAPI`, abrimos `index.html` en el navegador. Esto nos lleva a la pantalla de inicio de sesión.
+
+---
+
+### 2. Inicio de Sesión
+
+```
 (4.png)
-Aqui ingresaremos las credenciales que establecimos en el backend tras la correcta conexion con el back y la database pasamos a la interfaz habitual de index.html donde podremos hacer los cambios que querramos entorno a agregar datos de usuario,categoria y tablas como queramos, luego 
+```
+Ingresamos las credenciales configuradas en el backend. Una vez validado el acceso, la aplicación nos redirige a la interfaz principal, donde podremos gestionar usuarios, categorías y tareas.
+
+---
+
+### 3. Gestión de Usuarios
+
+**Creación de un Usuario:**
+```
 (5.png)
-luego podemos ver como se crea un usuario y su eliminacion
+```
+
+**Eliminación del Usuario:**
+```
 (6.png)
 (7.png)
+```
+
+**Vista Actualizada de Usuarios:**
+```
 (8.png)
-Y ahora un ejemplo similar con categorias:
+```
+
+---
+
+### 4. Gestión de Categorías
+
+**Creación de Categoría:**
+```
 (9.png)
+```
+
+**Visualización de Categorías:**
+```
 (1.2.png)
-y finalmente un ejemplo con tareas:
+```
+
+---
+
+### 5. Gestión de Tareas
+
+**Creación de Tarea:**
+```
 (10.png)
+```
+
+**Visualización de Tareas:**
+```
 (11.png)
+```
+
+---
+
+> Asegúrate de que las imágenes estén ubicadas en el mismo nivel que el archivo README o ajusta la ruta según la carpeta correspondiente (por ejemplo: `img/3.png`).
+
 
 
