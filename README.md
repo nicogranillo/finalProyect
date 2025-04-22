@@ -205,71 +205,35 @@ Jala License (se ve lindo jeje) © Equipo 2
 
 ---
 
-## Ejecucion y ejemplos:
-## 🚀 Ejecución y Ejemplos
+## Ejecución y ejemplos:
 
-### 1. Ejecución del Programa
+### 1. Inicio del programa
 
-```
-(3.png)
-```
-Después de compilar y ejecutar `TareaAPI`, abrimos `index.html` en el navegador. Esto nos lleva a la pantalla de inicio de sesión.
+![Ejecución del backend](3.png)  
+Aquí podemos ver la ejecución del programa donde ya usamos `TareaApi` y luego ejecutamos el `index.html`.
 
----
+### 2. Login
 
-### 2. Inicio de Sesión
+![Pantalla de login](4.png)  
+Aquí ingresamos las credenciales que establecimos en el backend. Tras la correcta conexión con el backend y la base de datos, pasamos a la interfaz habitual de `index.html`.
 
-```
-(4.png)
-```
-Ingresamos las credenciales configuradas en el backend. Una vez validado el acceso, la aplicación nos redirige a la interfaz principal, donde podremos gestionar usuarios, categorías y tareas.
+### 3. Gestión de usuarios
 
----
+![Creación de usuario](5.png)  
+Aquí se muestra cómo se crea un usuario.  
+![Usuario creado](6.png)  
+![Eliminación de usuario](7.png)  
+![Confirmación de eliminación](8.png)
 
-### 3. Gestión de Usuarios
+### 4. Gestión de categorías
 
-**Creación de un Usuario:**
-```
-(5.png)
-```
+![Creación de categoría](9.png)  
+![Confirmación de categoría](1.2.png)
 
-**Eliminación del Usuario:**
-```
-(6.png)
-(7.png)
-```
+### 5. Gestión de tareas
 
-**Vista Actualizada de Usuarios:**
-```
-(8.png)
-```
-
----
-
-### 4. Gestión de Categorías
-
-**Creación de Categoría:**
-```
-(9.png)
-```
-
-**Visualización de Categorías:**
-```
-(1.2.png)
-```
-
----
-
-### 5. Gestión de Tareas
-
-**Creación de Tarea:**
-```
-(10.png)
-```
-
-**Visualización de Tareas:**
-```
-(11.png)
+![Creación de tarea](10.png)  
+![Confirmación de tarea](11.png)
 ```
 
 ---
